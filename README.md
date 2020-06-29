@@ -18,4 +18,5 @@ https://fasttext.cc/docs/en/crawl-vectors.html 에서 Korean: bin 파일을 다�
 ## 영어
 2번째 Cell Block에 있는 path_dir을 교수님께서 주신 data를 압축 해제한 후 나온 EmotionLines의 주소로 바꿔주면 됩니다.  
 단 꼭 path_dir은 /로 끝나야합니다.  
-이후 .ipynb 파일들을 모두실행 시키면 됩니다.
+이후 english_analysis_glove.ipynb 파일을 모두 실행시켜 glove 임베딩을 사용한 딥러닝 모델을,  
+english_analysis_machine_deep.ipynb 파일을 모두 실행시켜 기계학습 모델을 수행할 수 있습니다.
